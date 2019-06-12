@@ -1,0 +1,2 @@
+# qa-boilerplate
+Быстро тестим
